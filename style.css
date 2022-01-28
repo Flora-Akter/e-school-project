@@ -1,10 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
 .container{
     margin-bottom: 75px;
 }
 .sing-in{
     height: 43px;
     width: 104px ;
-    background-color: green;
+    background-color: #21B573;
     color: white;
     border: none;
     border-radius: 33px;
@@ -13,4 +17,32 @@
 .item{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
+}
+.top-banner{
+    background-image: linear-gradient(rgb(223, 245, 223), rgb(222, 235, 222));
+    display: flex;
+    height: 400px; 
+    padding: 20px 40px;
+}
+.name-color{
+    color: #21B573;
+}
+.link-button{
+    background-image: linear-gradient(to bottom, #7ce4b5, #21B573);
+    border: none;
+    border-radius: 8px;
+    padding: 9px, 25px;
+    cursor: pointer;
+    width: 153px;
+    height: 43px;
+}
+.top-banner img{
+    width: 75%;
+}
+h5{
+    color:#413960;
+}
+.diff{
+    height: 270px;
+    width: 270px;
 }
