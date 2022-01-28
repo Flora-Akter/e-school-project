@@ -42,7 +42,10 @@ body{
 h5{
     color:#413960;
 }
+h5{
+    padding-top: 10px;
+    padding-right: 100px;
+}
 .diff{
-    height: 270px;
-    width: 270px;
+    padding-left: 100px;
 }
