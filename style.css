@@ -70,6 +70,7 @@ h2{
     font-size: 36px;
     font-weight: 700;
     color: #413960;
+    padding-bottom: 30px;
 }
 .middle{
     border: none;
@@ -88,7 +89,7 @@ h2{
 .card-footer{
     border-top: none;
     background-color: white;
-    border-radius: 50px;
+    border-radius: 10px;
 }
 h3{
     text-align: center;
